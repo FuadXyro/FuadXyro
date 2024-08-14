@@ -36,9 +36,9 @@
   <a href="https://www.youtube.com/@azkadev">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC928-F8HenjZD1zNdMY42vA?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/azkadev?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/azkadev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/FuadXyro?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/FuadXyro?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/azkadev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/FuadXyro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 Hi, let me introduce myself, **Fuad Xyrov**, I am a programmer who really likes creating **libraries** to make things **easier for other people**. I make all **library** programs that can be **scaled to a business scale**
@@ -99,13 +99,13 @@ FuadXyro - Developer
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:azkadev?theme=rule34">](https://www.youtube.com/@azkadev)
 [<img align="right" width="390" height="31" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/sponsors.svg">](https://github.com/sponsors/azkadev)
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/sponsors.svg">](https://github.com/sponsors/FuadXyro)
 [<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/achievements.svg">](#)
 
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
 [<img align="left" width="30%"   alt="🦑" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=azkadev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866%22%20height=%22192px">](#)
-[<img align="center" width="35%" alt="🦑" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkadev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook">](#)
-[<img align="right" width="30%" alt="🦑" src="https://github-readme-streak-stats.herokuapp.com/?user=azkadev&theme=monokai-metallian&hide_border=true">](#)
+[<img align="center" width="35%" alt="🦑" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuadXyro&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook">](#)
+[<img align="right" width="30%" alt="🦑" src="https://github-readme-streak-stats.herokuapp.com/?user=FuadXyro&theme=monokai-metallian&hide_border=true">](#)
 
-[<img align="center" width="100%" alt="🦑" src="https://github-readme-activity-graph.vercel.app/graph/?username=azkadev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">](#)
+[<img align="center" width="100%" alt="🦑" src="https://github-readme-activity-graph.vercel.app/graph/?username=FuadXyro&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">](#)
