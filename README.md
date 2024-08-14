@@ -5,7 +5,7 @@
 ---
 
 <h3 align="center">
-  Welcome to azkadev's profile!
+  Welcome to FuadXyro profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -19,13 +19,13 @@
 
 <!-- Social icons section -->
 <p align="center">   
-  <a href="https://youtube.com/@azkadev">
+  <a href="https://youtube.com/">
     <img alt="youtube" title="Follow me on Youtube" src="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
-  <a href="https://t.me/azkadev">
+  <a href="https://t.me/fuadxyro">
     <img alt="telegram" title="Follow me on Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)"/>
     </a> 
-  <a href="https://youtube.com/@azkadev">
+  <a href="https://cylic.vercel.app">
     <img alt="Website" title="Follow me on Web" src="https://img.shields.io/badge/Website-%23E4405F.svg?&style=for-the-badge&logo=firefox&logoColor=white"/>
     </a>  
 </p>
@@ -37,11 +37,11 @@
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC928-F8HenjZD1zNdMY42vA?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/azkadev?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/azkadev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/azkadev?tab=followers">
+  <a href="https://github.com/FuadXyro?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/azkadev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-Hi, let me introduce myself, **Azkadev**, I am a programmer who really likes creating **libraries** to make things **easier for other people**. I make all **library** programs that can be **scaled to a business scale**
+Hi, let me introduce myself, **Fuad Xyrov**, I am a programmer who really likes creating **libraries** to make things **easier for other people**. I make all **library** programs that can be **scaled to a business scale**
 
 Apart from that, the **libraries** I make have **basic templates**, making it **easier** for you to use them.
 
@@ -59,11 +59,11 @@ If you are interested in some of the features I mentioned above, come on quickly
 
 This allows me, you, other people to create programs **easily and efficiently**
 
-**Come on, support me with my sponsors:** [Github Sponsor](https://github.com/sponsors/azkadev)
+**Come on, support me with my sponsors:** [Github Sponsor](https://github.com/sponsors/FuadXyro)
 
-[<img align="right" width="50%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=azkadev">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="right" width="50%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=FuadXyro">](https://metrics.lecoq.io/ouuan?template=classic)
 
-AZKA DEVELOPER
+FuadXyro - Developer
 
 -   ⚒️ Dart
 -   ✏️ Ubuntu
@@ -94,10 +94,6 @@ AZKA DEVELOPER
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
   </a>
 </p>
-
-
-- DATE: 2023-12-27 03:55:55.568876
-
 
 [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/general.svg">](#)
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:azkadev?theme=rule34">](https://www.youtube.com/@azkadev)
