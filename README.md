@@ -1,3 +1,4 @@
+<!-- FuadXyro -->
 <h3 align="center">Developer ori ZenithBot</h3>
 
 ![](https://user-images.githubusercontent.com/38845275/128774296-40a55843-1893-44e6-936e-5e71c7cf72de.png)
@@ -11,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/FuadXyro">
-        <img src="https://telegra.ph/file/e90bdeab8390b8c0d9df2.png" alt="Specta"
+        <img src="https://telegra.ph/file/ea05ad7f11648f3cc019b.jpg" alt="Specta"
             width="312"
             height="312">
     </a>
@@ -41,7 +42,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/FuadXyro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-Hi, let me introduce myself, **Fuad Xyrov**, I am a programmer who really likes creating **libraries** to make things **easier for other people**. I make all **library** programs that can be **scaled to a business scale**
+Hi, let me introduce myself, **Fuad Xyro**, I am a programmer who really likes creating **libraries** to make things **easier for other people**. I make all **library** programs that can be **scaled to a business scale**
 
 Apart from that, the **libraries** I make have **basic templates**, making it **easier** for you to use them.
 
